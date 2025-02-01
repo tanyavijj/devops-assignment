@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Different main branch change" 
+=======
+"Conflicting change" 
+>>>>>>> conflict-branch
